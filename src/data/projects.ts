@@ -19,7 +19,7 @@ export const projects: ProjectDetails[] = [
     technologies: ["React", "Typescript", "Vite", "TailwindCSS"],
     githubUrl: "https://github.com/floudydev/course-connectivity-platform",
     // liveUrl: "https://example.com",
-    // imageUrl: "https://s32klg.storage.yandex.net/rdisk/d5d56508e01da656c2aeacf19c2bedb2f70fdb32a63d95a120a9b815a60025e0/67d5c223/DBVIzZYOqkGe9P-TogIE25He4GsvTSWHYcKsfK2PlEie8khasLatjYEbAyhxWVGL1Hk4y5Qz-jjT4gRC8HVupg==?uid=1646585506&filename=back1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1646585506&fsize=1708874&hid=0c99b95e9a98f07a8cb8b97e0453aa39&media_type=image&tknv=v2&etag=a56c9617e9f3ab4b07304a5a91a1498c&ts=63065718a8ec0&s=7b21f7214c151e7b7b71d1b88976a4e98003121c402dd09ffa65b72b51c43651&pb=U2FsdGVkX1-vZ50UjNayGWw13JxCjPpU3EY5b1HybDEq-keFrRCoszMxrhWR9fyq7OCEJCVrJ28jVRNZxqN8Wsx2l0uWVbjafm5iWTEiuCM"
+    // imageUrl: imgsArray.img1
   },
   {
     id: "project2",
