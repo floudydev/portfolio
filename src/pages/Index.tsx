@@ -1,5 +1,9 @@
 import { useState, useEffect } from "react";
+<<<<<<< HEAD
 import { Github, Mail } from "lucide-react";
+=======
+import { Github, Linkedin, Mail, Twitter } from "lucide-react";
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
 import ProjectModal, { ProjectDetails } from "@/components/ProjectModal";
 import { projects } from "@/data/projects";
 

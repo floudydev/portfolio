@@ -19,7 +19,11 @@ export const projects: ProjectDetails[] = [
     technologies: ["React", "Typescript", "Vite", "TailwindCSS"],
     githubUrl: "https://github.com/floudydev/course-connectivity-platform",
     // liveUrl: "https://example.com",
+<<<<<<< HEAD
     // imageUrl: imgsArray.img1
+=======
+    imageUrl: imgsArray.img1
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
   },
   {
     id: "project2",
@@ -28,7 +32,11 @@ export const projects: ProjectDetails[] = [
     fullDescription: " This project is a classic tower defense game where players build and upgrade turrets to defend against waves of creeps and bosses. The basis of the project was taken from the vastness of Github and upgraded by me. It was created and upgraded with JS and a couple of weeks ago.",
     technologies: ["HTML", "CSS", "Javascript"],
     githubUrl: "https://github.com/floudydev/Tower-Defens",
+<<<<<<< HEAD
     // imageUrl: imgsArray.img3
+=======
+    imageUrl: imgsArray.img3
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
   },
   {
     id: "project3",
@@ -37,7 +45,11 @@ export const projects: ProjectDetails[] = [
     fullDescription: "My portfolio built with React Native.",
     technologies: ["React", "Typescript", "Vite", "TailwindCSS"],
     githubUrl: "https://github.com/floudydev/portfolio",
+<<<<<<< HEAD
     // imageUrl: imgsArray.img2
+=======
+    imageUrl: imgsArray.img2
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
   },
   {
     id: "project4",
@@ -46,7 +58,11 @@ export const projects: ProjectDetails[] = [
     fullDescription: "This work was done for the 3rd year students. His specialty is Information Systems and programming. Built with C#.",
     technologies: ["C#"],
     githubUrl: "https://github.com/floudydev/CS-project",
+<<<<<<< HEAD
     // imageUrl: imgsArray.img6
+=======
+    imageUrl: imgsArray.img6
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
   },
   {
     id: "project5",
@@ -55,6 +71,7 @@ export const projects: ProjectDetails[] = [
     fullDescription: "In my senior year, I was given the task to make a program for Windows, and at that time I started studying Electron and decided to make this application on it.",
     technologies: ["Javascript", "Electron", "HTML", "CSS"],
     githubUrl: "https://github.com/floudydev/shooll-project",
+<<<<<<< HEAD
     // imageUrl: imgsArray.img5
   },
   {
@@ -65,5 +82,8 @@ export const projects: ProjectDetails[] = [
     technologies: ["Javascript", "Express", "Swagger", "Winston", "Sqlite3", "JWT", "Argon2", "Helmet", "Cors"],
     githubUrl: "https://github.com/floudydev/simpleAuth",
     // imageUrl: imgsArray.img5
+=======
+    imageUrl: imgsArray.img5
+>>>>>>> 60096df44ad04d660770ece0fa0d0864ee9f3536
   }
 ];
