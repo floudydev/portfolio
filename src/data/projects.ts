@@ -56,5 +56,14 @@ export const projects: ProjectDetails[] = [
     technologies: ["Javascript", "Electron", "HTML", "CSS"],
     githubUrl: "https://github.com/floudydev/shooll-project",
     // imageUrl: imgsArray.img5
+  },
+  {
+    id: "project6",
+    title: "Simple auth server",
+    description: "My first simple SSO server",
+    fullDescription: "This project was made in order to learn new things and just try yourself in this field.",
+    technologies: ["Javascript", "Express", "Swagger", "Winston", "Sqlite3", "JWT", "Argon2", "Helmet", "Cors"],
+    githubUrl: "https://github.com/floudydev/simpleAuth",
+    // imageUrl: imgsArray.img5
   }
 ];
